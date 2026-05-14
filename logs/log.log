@@ -1,0 +1,8 @@
+
+13-05-2026 19:20:06.465400 CST127.0.0.1 [info]:referer: NULL REFERER El archivo C:\xampp\htdocs\ayalacenteno_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:22:56.713100 CST127.0.0.1 [info]:referer: NULL REFERER El archivo C:\xampp\htdocs\ayalacenteno_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:34:48.823600 CST127.0.0.1 [notice]:referer: http://localhost/ayalacenteno_20260513_log/ El cliente inició sesión correctamente Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:35:06.934200 CST127.0.0.1 [info]:referer: NULL REFERER El archivo C:\xampp\htdocs\ayalacenteno_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:35:10.938800 CST127.0.0.1 [notice]:referer: http://localhost/ayalacenteno_20260513_log/ Credenciales incorrectas enviadas hacia //localhost/ayalacenteno_20260513_log/core/process.php Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:35:10.944200 CST127.0.0.1 [info]:referer: http://localhost/ayalacenteno_20260513_log/ El archivo C:\xampp\htdocs\ayalacenteno_20260513_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+13-05-2026 19:36:41.191200 CST127.0.0.1 [notice]:referer: http://localhost/ayalacenteno_20260513_log/?status=7 El cliente inició sesión correctamente Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
